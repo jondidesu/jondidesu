@@ -2,6 +2,10 @@
 <h1 align="center">Olá, eu sou o João Douglas 👋</h1>
 <h3 align="center">Desenvolvedor em formação | Flask • React • MongoDB • Segurança da Informação</h3>
 
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=00ffff,8a2be2,00ff7f&height=120&section=header"/>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=4000&pause=1000&color=00FFFF&center=true&vCenter=true&multiline=true&width=1000&lines=HELLO,+My+name+is+João+Douglas;I'm+19+years+old;Computer+Science+student+at+UERN;Always+learning.)](https://git.io/typing-svg)
+
 ---
 
 ### 🧠 Sobre mim

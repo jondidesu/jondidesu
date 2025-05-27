@@ -49,7 +49,6 @@ Atualmente, estudo e desenvolvo projetos com Flask, React, MongoDB e Python.
   <img src="https://img.shields.io/badge/Figma-Designer-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
 </p>
 
-
 ---
 
 ### 📫 Contato

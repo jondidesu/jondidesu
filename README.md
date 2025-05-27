@@ -31,13 +31,6 @@ Atualmente, estudo e desenvolvo projetos com Flask, React, MongoDB e Python.
 
 ---
 
-### 🧬 Contribuições 3D
-<p align="center">
-  <img src="https://github.com/jondidesu/jondidesu/raw/output/github-contribution-grid-snake.svg" alt="snake gif" />
-</p>
-
----
-
 ### 🏆 Trophies
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=jondidesu&theme=tokyonight&row=1&column=6" />
@@ -64,5 +57,4 @@ Atualmente, estudo e desenvolvo projetos com Flask, React, MongoDB e Python.
 
 ---
 
-### ✍️ Frase favorita
 <p align="center"><i>“Always learning.”</i></p>

@@ -43,7 +43,7 @@
 ### 🚀 Badges
 <p align="center">
   <img src="https://img.shields.io/badge/React-Lover-61DAFB?style=for-the-badge&logo=react&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-Enthusiast-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/JavaScript-Enthusiast-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white" />
   <img src="https://img.shields.io/badge/HTML5-Creator-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-Styler-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/C-Programmer-A8B9CC?style=for-the-badge&logo=c&logoColor=white" />

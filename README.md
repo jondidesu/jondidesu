@@ -48,6 +48,7 @@ Atualmente, estudo e desenvolvo projetos com Flask, React, MongoDB e Python.
   <img src="https://img.shields.io/badge/C-Programmer-A8B9CC?style=for-the-badge&logo=c&logoColor=white" />
   <img src="https://img.shields.io/badge/PHP-Builder-777BB4?style=for-the-badge&logo=php&logoColor=white" />
   <img src="https://img.shields.io/badge/Figma-Designer-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
+  <img src="https://img.shields.io/badge/Laravel-Enthusiast-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
 </p>
 
 ---

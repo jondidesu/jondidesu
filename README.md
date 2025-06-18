@@ -1,13 +1,13 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=00BFFF&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=800&color=00FFCC&center=true&vCenter=true&width=1000&lines=HELLO%2C+my+name+is+João+Douglas.;I'm+19+years+old.;I+study+Computer+Science+at+UERN.;Always+learning...)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3000&pause=800&color=00FFCC&center=true&vCenter=true&width=1000&lines=HELLO%2C+my+name+is+João+Douglas.;I'm+19+years+old.;I+study+Computer+Science+at+UERN.;Always+learning...)](https://git.io/typing-svg)
 
 ---
 
 ### 🧠 Sobre mim
-- Sou estudante de Ciência da Computação 🗝️
-- Apaixonado por tecnologia 🗝️
-- Trabalho com desenvolvimento 🗝️
+- Sou estudante de Ciência da Computação 🗝️  
+- Apaixonado por tecnologia 🗝️  
+- Trabalho com desenvolvimento 🗝️  
 
 ---
 
@@ -20,7 +20,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" width="40"/>
 </p>
 
 ---
@@ -33,7 +33,7 @@
 
 ---
 
-### 🏆 Trophies
+### 🏆 Troféus do GitHub
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=jondidesu&theme=tokyonight&row=1&column=6" />
 </p>
